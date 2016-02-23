@@ -12,7 +12,11 @@ return array(
 	| you want to customize your views to better match your application.
 	|
 	*/
-  'title' => 'Título en español',
-  'subtitle' => 'Subtítulos en español'
+  'welcome' => 'Bienvenido',
+  'whoweare' => 'Quiénes somos',
+  'whatwedo' => 'Qué hacemos',
+  'getintouch' => 'Contáctanos',
+  'hyperspace' => 'Hiperespacio',
+  'learnmore' => 'Leer más'
 
 );

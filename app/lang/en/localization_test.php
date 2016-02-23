@@ -12,8 +12,12 @@ return array(
 	| you want to customize your views to better match your application.
 	|
 	*/
-  'title' => 'English tittle',
-  'subtitle' => 'English subtitle'
+  'welcome' => 'Welcome',
+  'whoweare' => 'Who are we',
+  'whatwedo' => 'What we do',
+  'getintouch' => 'Get in touch',
+  'hyperspace' => 'Hyperspace',
+  'learnmore' => 'Learn more'
 
 
 );
