@@ -26,6 +26,7 @@
 							<li><a href="#one">{{ trans('localization_test.whoweare') }}</a></li>
 							<li><a href="#two">{{ trans('localization_test.whatwedo') }}</a></li>
 							<li><a href="#three">{{ trans('localization_test.getintouch') }}</a></li>
+							<li><a href="/en" class="button">{{ trans('localization_test.english') }}</a><a href="/es" class="button">{{ trans('localization_test.spanish') }}</a></li>
 						</ul>
 					</nav>
 				</div>
@@ -38,8 +39,7 @@
 					<section id="intro" class="wrapper style1 fullscreen fade-up">
 						<div class="inner">
 							<h1>{{ trans('localization_test.hyperspace') }}</h1>
-							<p>Just another fine responsive site template designed by <a href="http://html5up.net">HTML5 UP</a><br />
-							and released for free under the <a href="http://html5up.net/license">Creative Commons</a>.</p>
+							<p>{{ trans('localization_test.text1') }}</p>
 							<ul class="actions">
 								<li><a href="#one" class="button scrolly">{{ trans('localization_test.learnmore') }}</a></li>
 							</ul>

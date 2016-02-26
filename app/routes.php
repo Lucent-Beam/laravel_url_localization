@@ -15,5 +15,12 @@
 Route::group(['prefix' => '{lang?}', 'before' => 'localization'], function() {
     Route::get('/', function() {
         return View::make('localization');
+
     });
+
+    Route::get('contact',function(){
+        return View::make('contact');
+    });
+    Route::get('post','HomeController@post');
+  
 });

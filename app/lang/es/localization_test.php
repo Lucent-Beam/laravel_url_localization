@@ -12,11 +12,19 @@ return array(
 	| you want to customize your views to better match your application.
 	|
 	*/
+
   'welcome' => 'Bienvenido',
   'whoweare' => 'Quiénes somos',
   'whatwedo' => 'Qué hacemos',
   'getintouch' => 'Contáctanos',
   'hyperspace' => 'Hiperespacio',
-  'learnmore' => 'Leer más'
+  'learnmore' => 'Leer más',
+  'english' => 'Inglés',
+  'spanish' => 'Español',
+  'text1' => 'Simplemente otra buena plantilla responsiva',
+  'title' => 'Título',
+  'content' => 'Contenido',
+  'alltheblog' => 'Todos los Blogs',
+
 
 );

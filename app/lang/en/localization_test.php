@@ -17,7 +17,13 @@ return array(
   'whatwedo' => 'What we do',
   'getintouch' => 'Get in touch',
   'hyperspace' => 'Hyperspace',
-  'learnmore' => 'Learn more'
+  'learnmore' => 'Learn more',
+  'english' => 'English',
+  'spanish' => 'Spanish',
+  'text1' => 'Just another fine responsive site template',
+  'title' => 'Title',
+  'content' => 'Content',
+  'alltheblog' => 'All the Blogs',
 
 
 );
